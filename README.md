@@ -27,7 +27,7 @@ I'm **0xac**, a cybersecurity enthusiast focused on ethical hacking, security re
   - **Occupation**: `Bug Hunter` | `Security Researcher`
   - **Focus**: Exploiting & Patching `Website Vulnerabilities`
   - **Status**: Acquiring knowledge in `*.*` 
-  - **Contact**: `GarudaR007X@proton.me`
+  - **Contact**: `who0xac@proton.me`
 
 </details>
 
